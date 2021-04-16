@@ -1,0 +1,17 @@
+File......	minlen	secuencial	paralelo	final
+ex3_01.txt	4	min		min		min
+ex3_02.txt	6	min		min		min
+ex4_01.txt	4	min		min		min
+ex4_02.txt	6	min		min		min
+ex4_03.txt	6	min		min		min
+ex5_01.txt	8	min (8.160s)	min		min
+ex5_02.txt	9	min (96.089s)	11		min
+ex5_03.txt	10	-		min		min
+ex9_01.txt	26	-		Ok		min
+ex9_02.txt	27	-		Ok		min
+ex10_01.txt     32	-		Ok		min
+ex10_02.txt     46	-		-		min
+ex15_01.txt	36	-		Ok		min
+ex15_02.txt	52	-		-		min (12.04s)
+ex20_01.txt	44	-		Ok (2.847s)	min (20.94s)
+ex20_02.txt	54	-		-		min (33.56s)
